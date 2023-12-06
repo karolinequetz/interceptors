@@ -1,15 +1,28 @@
 {
-  "users": [],
+  "users": [
+    {
+      "email": "karolsouza@gmail.com",
+      "password": "$2a$10$b0WEh7Q/kLFbVBWwQwag/uImEDvlbTnDKg/r3gO9H2pej1sxB10Ha",
+      "firstname": "karol",
+      "age": 32,
+      "id": 1
+    }
+  ],
   "books": [
     {
       "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
       "author": "Robert C. Martin",
       "id": 1
-    },    
+    },
     {
       "title": "Clean Architecture: A Craftsman's Guide to Software Structure and Design",
       "author": "Robert C. Martin",
       "id": 2
+    },
+    {
+      "title": "Lean Startup",
+      "author": "Eric Ries",
+      "id": 3
     }
   ]
 }
